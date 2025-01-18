@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>W3.CSS Template</title>
+        <title>Mustafa Tümsek</title>
+        <link rel="shortcut icon" type="image/png" href= "images/pau.png" />
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -42,7 +43,7 @@
 
     <!-- Top menu on small screens -->
     <header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16">
-        <span class="w3-left w3-padding">MUSTAFA T</span>
+        <span class="w3-left w3-padding">MUSTAFA TüMSEK</span>
         <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
     </header>
 
@@ -62,8 +63,8 @@
                 <img src= "images/kent.jpg" . style="width:100%" onclick="onClick(this)"
                     alt="Eskişehir/Kentpark">
                 <img src="images/kadikoy.png" style="width:100%" onclick="onClick(this)"
-                    alt="Kadıköy vapur">
-                <img src="images/ibf.jpg" style="width:100%" onclick="onClick(this)" alt="Paü, İİBF">
+                    alt="Kadıköy İskele">
+                <img src="images/ibf.png" style="width:100%" onclick="onClick(this)" alt="Paü, İİBF">
             </div>
 
             <div class="w3-third">
@@ -76,9 +77,9 @@
             </div>
 
             <div class="w3-third">
-                <img src="images/esk.jpg" style="width:100%" onclick="onClick(this)" alt="Eskişehir">
+                <img src="images/esk.png" style="width:100%" onclick="onClick(this)" alt="Eskişehir">
                 <img src="images/akvaryum.png" style="width:100%" onclick="onClick(this)" alt="Akvaryum Koyu, Fethiye">
-                <img src="images/vendome.jpg" style="width:100%" onclick="onClick(this)" alt="Vendome Pub, Eskişehir">
+                <img src="images/vendome.png" style="width:100%" onclick="onClick(this)" alt="Vendome Pub, Eskişehir">
             </div>
         </div>
 
@@ -126,7 +127,7 @@
             <div class="w3-content" style="max-width:600px">
                 <h4 class="w3-center"><b>İletişim</b></h4>
                 <p>Benimle iletişime geçmek isterseniz benimle bu bölüm üzerinden iletişime geçebilirsiniz!</p>
-                <form action="/action_page.php" target="_blank">
+                <form action="https://mail.google.com" target="_blank">
                     <div class="w3-section">
                         <label>İsim</label>
                         <input class="w3-input w3-border" type="text" name="Name" required>
@@ -157,9 +158,11 @@
                     <h3>BLOG</h3>
                     <ul class="w3-ul">
                         <li class="w3-padding-16 w3-hover-black">
-                            <img src="https://www.w3schools.com/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
-                            <span class="w3-large">Fotoğrafçılık Hakkında</span><br>
-                            <span>Sed mattis nunc</span>
+                            <a href="blog.html" style="text-decoration: none; color: inherit;">
+                                <img src="https://www.w3schools.com/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
+                                <span class="w3-large">Fotoğrafçılık Hakkında</span><br>
+                                <span>Sed mattis nunc</span>
+                            </a>
                         </li>
                         <li class="w3-padding-16 w3-hover-black">
                             <img src="https://www.w3schools.com/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
@@ -168,6 +171,7 @@
                         </li>
                     </ul>
                 </div>
+                
 
                 <div class="w3-third">
                     <h3>ETİKETLER</h3>
@@ -218,7 +222,6 @@
         }
 
     </script>
-
 
 </body>
 
