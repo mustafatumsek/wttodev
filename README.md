@@ -12,6 +12,8 @@ Bu siteyi bir fotoğrafçı için portfolyo sitesi olarak hazırladım ve içeri
 ![image](https://github.com/user-attachments/assets/7c8e2b4e-d8ae-4aa8-bf3c-6e89eb0cf6d3)
 ![image](https://github.com/user-attachments/assets/7b2f29b4-9b62-4080-a7d2-6c1098d4b2a7)
 
+## 🚀 About Me
+I’m a 3rd-year Management Information Systems student at Pamukkale University. Passionate about learning and self-improvement, I actively participate in events and contribute to various projects. Continuously seeking opportunities to grow my skills and apply them to real-world challenges.  
 
 ## 🔗 Contact Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatumsek/)
