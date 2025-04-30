@@ -1,6 +1,9 @@
 ## Fotoğrafçı Portfolyo Sitesi
 
 Bu siteyi bir fotoğrafçı için portfolyo sitesi olarak hazırladım ve içerisine kendi çektiğim fotoğrafları ekledim. Bu siteyi Web Tabanlı Teknolojiler dersimin ödevi için hazırladım. İçerisinde tıklandığında büyük olarak incelenebilen ve bilgilerinin gözüktüğü fotoğraflar, hakkımda kısmı, iletişim bölümü, footer, navbar, scroll-top butonu ve karanlık mod butonu bulunuyor. İletişim bölümünden mail gönderilebiliyor. Sitenin içerisinde footerdan erişilebilen 2 ayrı blog sayfası da bulunuyor. Ayrıca bu ilk html projemdi.
+
+
+Projeye https://mustafatumsek.github.io adresi üzerinden erişebilirsiniz.
  
 ## 📷 Ekran Görüntüleri
 
